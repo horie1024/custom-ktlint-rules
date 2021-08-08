@@ -47,7 +47,6 @@ ktlint {
 
 dependencies {
 
-//    ktlintRuleset project(path: '::custom-rules', configuration: 'default')
     ktlintRuleset project(':custom-rules')
 
     implementation 'androidx.core:core-ktx:1.6.0'

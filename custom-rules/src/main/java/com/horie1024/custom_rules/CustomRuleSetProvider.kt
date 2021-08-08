@@ -1,4 +1,4 @@
-package com.hore1024.custom_rules
+package com.horie1024.custom_rules
 
 import com.pinterest.ktlint.core.RuleSet
 import com.pinterest.ktlint.core.RuleSetProvider

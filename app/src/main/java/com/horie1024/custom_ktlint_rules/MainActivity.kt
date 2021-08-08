@@ -1,4 +1,4 @@
-package com.hore1024.custom_ktlint_rules
+package com.horie1024.custom_ktlint_rules
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

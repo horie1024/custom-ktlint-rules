@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.hore1024.custom_ktlint_rules">
+    package="com.horie1024.custom_ktlint_rules">
 
     <application
         android:allowBackup="true"

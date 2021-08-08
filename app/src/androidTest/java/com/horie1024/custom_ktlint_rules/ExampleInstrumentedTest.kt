@@ -1,4 +1,4 @@
-package com.hore1024.custom_ktlint_rules
+package com.horie1024.custom_ktlint_rules
 
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry

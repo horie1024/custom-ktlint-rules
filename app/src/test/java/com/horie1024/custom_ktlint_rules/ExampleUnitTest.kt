@@ -1,4 +1,4 @@
-package com.hore1024.custom_ktlint_rules
+package com.horie1024.custom_ktlint_rules
 
 import junit.framework.Assert.assertEquals
 import org.junit.Test
